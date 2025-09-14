@@ -1,0 +1,5 @@
+pyrogram==2.0.42
+pytgcalls==2.4.0
+yt-dlp
+tgcrypto
+python-dotenv
